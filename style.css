@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+body
+{
+    text-align: center;
+}
+#btn
+{
+    color: blue;
+    background-color: limegreen;
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+}
+
+
